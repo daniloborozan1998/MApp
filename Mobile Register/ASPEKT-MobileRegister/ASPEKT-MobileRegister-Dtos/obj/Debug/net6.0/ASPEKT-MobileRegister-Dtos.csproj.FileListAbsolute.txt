@@ -1,0 +1,12 @@
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\bin\Debug\net6.0\ASPEKT-MobileRegister-Dtos.deps.json
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\bin\Debug\net6.0\ASPEKT-MobileRegister-Dtos.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\bin\Debug\net6.0\ref\ASPEKT-MobileRegister-Dtos.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\bin\Debug\net6.0\ASPEKT-MobileRegister-Dtos.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ASPEKT-MobileRegister-Dtos.csproj.AssemblyReference.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ASPEKT-MobileRegister-Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ASPEKT-MobileRegister-Dtos.AssemblyInfoInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ASPEKT-MobileRegister-Dtos.AssemblyInfo.cs
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ASPEKT-MobileRegister-Dtos.csproj.CoreCompileInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ASPEKT-MobileRegister-Dtos.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ref\ASPEKT-MobileRegister-Dtos.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Dtos\obj\Debug\net6.0\ASPEKT-MobileRegister-Dtos.pdb

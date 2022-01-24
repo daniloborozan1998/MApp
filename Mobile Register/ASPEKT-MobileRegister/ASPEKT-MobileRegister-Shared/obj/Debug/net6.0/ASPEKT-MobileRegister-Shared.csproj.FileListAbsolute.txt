@@ -1,0 +1,12 @@
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\bin\Debug\net6.0\ASPEKT-MobileRegister-Shared.deps.json
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\bin\Debug\net6.0\ASPEKT-MobileRegister-Shared.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\bin\Debug\net6.0\ref\ASPEKT-MobileRegister-Shared.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\bin\Debug\net6.0\ASPEKT-MobileRegister-Shared.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ASPEKT-MobileRegister-Shared.csproj.AssemblyReference.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ASPEKT-MobileRegister-Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ASPEKT-MobileRegister-Shared.AssemblyInfoInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ASPEKT-MobileRegister-Shared.AssemblyInfo.cs
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ASPEKT-MobileRegister-Shared.csproj.CoreCompileInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ASPEKT-MobileRegister-Shared.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ref\ASPEKT-MobileRegister-Shared.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Shared\obj\Debug\net6.0\ASPEKT-MobileRegister-Shared.pdb

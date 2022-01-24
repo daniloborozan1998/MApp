@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ASPEKT_MobileRegister_Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPEKT-MobileRegister-DataAccess\ASPEKT-MobileRegister-DataAccess.csproj" />
+    <ProjectReference Include="..\ASPEKT-MobileRegister-Dtos\ASPEKT-MobileRegister-Dtos.csproj" />
+    <ProjectReference Include="..\ASPEKT-MobileRegister-Mappers\ASPEKT-MobileRegister-Mappers.csproj" />
+    <ProjectReference Include="..\ASPEKT-MobileRegister-Shared\ASPEKT-MobileRegister-Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ASPEKT-MobileRegister-Mappers.deps.json
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ASPEKT-MobileRegister-Mappers.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ref\ASPEKT-MobileRegister-Mappers.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ASPEKT-MobileRegister-Mappers.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.AssemblyInfoInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.AssemblyInfo.cs
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.csproj.CoreCompileInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ref\ASPEKT-MobileRegister-Mappers.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ASPEKT-MobileRegister-Domain.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ASPEKT-MobileRegister-Dtos.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ASPEKT-MobileRegister-Domain.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\bin\Debug\net6.0\ASPEKT-MobileRegister-Dtos.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.csproj.AssemblyReference.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-Mappers\obj\Debug\net6.0\ASPEKT-MobileRegister-Mappers.csproj.CopyComplete

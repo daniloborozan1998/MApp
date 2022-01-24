@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "211209dd-c468-4433-a33e-2aff8e0c9a4b": {
+      "ProjectGuid": "211209dd-c468-4433-a33e-2aff8e0c9a4b",
+      "DisplayName": "ASPEKT-MobileRegister",
+      "ColorIndex": 0
+    },
+    "e5570558-ef15-4a50-917c-541a55e3ef7a": {
+      "ProjectGuid": "e5570558-ef15-4a50-917c-541a55e3ef7a",
+      "DisplayName": "ASPEKT-MobileRegister-Domain",
+      "ColorIndex": 1
+    },
+    "f88665cd-f418-446c-a57b-a5a5f92466be": {
+      "ProjectGuid": "f88665cd-f418-446c-a57b-a5a5f92466be",
+      "DisplayName": "ASPEKT-MobileRegister-DataAccess",
+      "ColorIndex": 2
+    },
+    "f19d0b58-ec13-4c7e-81d3-99ac9e0e397b": {
+      "ProjectGuid": "f19d0b58-ec13-4c7e-81d3-99ac9e0e397b",
+      "DisplayName": "ASPEKT-MobileRegister-Dtos",
+      "ColorIndex": 3
+    },
+    "0ba7d7e8-ef11-4f92-aa65-7d52d4c02794": {
+      "ProjectGuid": "0ba7d7e8-ef11-4f92-aa65-7d52d4c02794",
+      "DisplayName": "ASPEKT-MobileRegister-Mappers",
+      "ColorIndex": 4
+    },
+    "f56c6ffb-1ef2-41ec-8ba9-277fe75f1b87": {
+      "ProjectGuid": "f56c6ffb-1ef2-41ec-8ba9-277fe75f1b87",
+      "DisplayName": "ASPEKT-MobileRegister-Services",
+      "ColorIndex": 5
+    },
+    "70d75f6a-3063-4bd7-8a1b-8351d28032df": {
+      "ProjectGuid": "70d75f6a-3063-4bd7-8a1b-8351d28032df",
+      "DisplayName": "ASPEKT-MobileRegister-Shared",
+      "ColorIndex": 6
+    },
+    "cb32e49c-ee33-4abb-bd93-d3b2af1c0547": {
+      "ProjectGuid": "cb32e49c-ee33-4abb-bd93-d3b2af1c0547",
+      "DisplayName": "ASPEKT-MobileRegister-Helpers",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}

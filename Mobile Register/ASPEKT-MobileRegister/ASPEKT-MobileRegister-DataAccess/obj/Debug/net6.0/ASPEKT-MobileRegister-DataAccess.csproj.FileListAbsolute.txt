@@ -1,0 +1,17 @@
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\bin\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.deps.json
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\bin\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.runtimeconfig.json
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\bin\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\bin\Debug\net6.0\ref\ASPEKT-MobileRegister-DataAccess.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\bin\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\bin\Debug\net6.0\ASPEKT-MobileRegister-Domain.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\bin\Debug\net6.0\ASPEKT-MobileRegister-Domain.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.csproj.AssemblyReference.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.AssemblyInfoInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.AssemblyInfo.cs
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.csproj.CopyComplete
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ref\ASPEKT-MobileRegister-DataAccess.dll
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.pdb
+C:\Users\danilo.borozan\Desktop\Danilo Borozan - zadaci SQL\Mobile Register\ASPEKT-MobileRegister\ASPEKT-MobileRegister-DataAccess\obj\Debug\net6.0\ASPEKT-MobileRegister-DataAccess.genruntimeconfig.cache
